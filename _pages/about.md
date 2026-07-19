@@ -41,9 +41,9 @@ I combine computational cognitive modeling with multimodal neurobehavioral metho
 9. Tan, J., **Wang, S.**, Jin, Z., & Gao, D. (2025). The impact of facial smoothness on cooperative intentions and behaviors: The mediating role of facial trustworthiness [in Chinese]. *Journal of Psychological Science, 48*(2), 334–345. [[DOI]](https://doi.org/10.16719/j.cnki.1671-6981.20250207)
 
 # 🎖 Honors and Awards
-- *2026* Outstanding Doctoral Graduate, Sun Yat-sen University.
-- *2026* Outstanding Doctoral Dissertation, Sun Yat-sen University.
-- *2024* National Scholarship, Ministry of Education of China. (Ph.D.) Awarded to the top 0.2% of Ph.D. students nationwide.
+- *2026* **Outstanding Doctoral Graduate**, Sun Yat-sen University.
+- *2026* **Outstanding Doctoral Dissertation**, Sun Yat-sen University.
+- *2024* **National Scholarship**, Ministry of Education of China. (Ph.D.) Awarded to the top 0.2% of Ph.D. students nationwide.
 - *2023* President's Scholarship, Sun Yat-sen University. (Ph.D.) The highest honor for doctoral students at Sun Yat-sen University.
 - *2018; 2021–2022; 2024–2025* First-Class Academic Scholarship, Sun Yat-sen University. (B.S.; M.S.; Ph.D.)
 - *2017; 2019; 2020* Second-Class Academic Scholarship, Sun Yat-sen University. (B.S.)
@@ -54,12 +54,12 @@ I combine computational cognitive modeling with multimodal neurobehavioral metho
 - *2016.09–2020.06* B.A. in Psychology, Sun Yat-sen University, Guangzhou, China.
 
 # 🎤 Conference Presentations
-- *2025* **Wang, S.**, Zhang, Y., & Ding, X. “‘NOT Gate,’ Not ‘Gate’: Long-Term Memory Interplay with Working Memory via Reversal Coding.” Poster presented at the annual meeting of Cognitive Computational Neuroscience, Amsterdam, the Netherlands.
-- *2024* **Wang, S.**, Lin, Y., & Ding, X. “The Difference between Social Attention and Non-Social Attention Lies in Attention Disengagement Rather Than Attention Orientation.” Talk presented at the Conference for Chinese Psychologists, Shenzhen, China.
-- *2023* **Wang, S.**, Lin, Y., & Ding, X. “The Difference between Social Attention and Non-Social Attention Lies in Attention Disengagement Rather Than Attention Orientation.” Poster presented at the annual meeting of the Vision Sciences Society, Florida, USA. *Journal of Vision, 23*(9), 5045.
-- *2023* **Wang, S.**, Lin, Y., & Ding, X. “Mechanisms of Social Gestalt and Its Bound Information in Working Memory.” Talk presented at the Chinese Psychological Society National Academic Conference on General and Experimental Psychology, Jinhua, China.
-- *2023* **Wang, S.**, Lin, Y., & Ding, X. “The Difference between Social Attention and Non-Social Attention Lies in Attention Disengagement Rather Than Attention Orientation.” Poster presented at the Chinese Psychological Society National Academic Conference on General and Experimental Psychology, Jinhua, China.
-- *2021* **Wang, S.**, Xu, L., Luo, X., & Sun, Y. “Follow Because of Trust: Trust Modulates the Gaze Cueing Effect.” Poster presented at the annual meeting of the Vision Sciences Society, online. *Journal of Vision, 21*(9), 2366.
+- *2025* **Wang, S.**, Zhang, Y., & Ding, X. “‘NOT Gate,’ Not ‘Gate’: Long-Term Memory Interplay with Working Memory via Reversal Coding.” **Poster** presented at **the annual meeting of Cognitive Computational Neuroscience**, Amsterdam, the Netherlands.
+- *2024* **Wang, S.**, Lin, Y., & Ding, X. “The Difference between Social Attention and Non-Social Attention Lies in Attention Disengagement Rather Than Attention Orientation.” **Talk** presented at **the Conference for Chinese Psychologists**, Shenzhen, China.
+- *2023* **Wang, S.**, Lin, Y., & Ding, X. “The Difference between Social Attention and Non-Social Attention Lies in Attention Disengagement Rather Than Attention Orientation.” **Poster** presented at **the annual meeting of the Vision Sciences Society**, Florida, USA. *Journal of Vision, 23*(9), 5045.
+- *2023* **Wang, S.**, Lin, Y., & Ding, X. “Mechanisms of Social Gestalt and Its Bound Information in Working Memory.” **Talk** presented at **the Chinese Psychological Society National Academic Conference on General and Experimental Psychology**, Jinhua, China.
+- *2023* **Wang, S.**, Lin, Y., & Ding, X. “The Difference between Social Attention and Non-Social Attention Lies in Attention Disengagement Rather Than Attention Orientation.” **Poster** presented at **the Chinese Psychological Society National Academic Conference** on General and Experimental Psychology, Jinhua, China.
+- *2021* **Wang, S.**, Xu, L., Luo, X., & Sun, Y. “Follow Because of Trust: Trust Modulates the Gaze Cueing Effect.” **Poster** presented at **the annual meeting of the Vision Sciences Society**, online. *Journal of Vision, 21*(9), 2366.
 
 # 🏫 Workshops and Summer Schools
 - *2025* Model-Based Neuroscience and Cognition Summer School, University of Amsterdam, the Netherlands.
