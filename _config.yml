@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Shengyuan Wang"
-description              : "Hi! Welcome to my academic homepage! I'm Shengyuan Wang, a researcher in cognitive psychology and computational cognitive neuroscience."
+description              : "Cognitive Psychology · Working Memory · Attention · Learning · Computational Modeling"
 repository               : "ShengyuanWang24.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -15,8 +15,7 @@ google_scholar_stats_use_cdn : true
 author:
  name : "Shengyuan Wang"
  avatar : "images/profile.jpg"
- bio : "Incoming Postdoc Associate in Maryland University, USA."
-
+ bio : "Incoming Postdoctoral Associate at the University of Maryland, College Park"
  location : "College Park, Maryland, USA"
  googlescholar : "https://scholar.google.com/citations?user=uSnJG84AAAAJ"
  email : "wangshy56@gmail.com"
