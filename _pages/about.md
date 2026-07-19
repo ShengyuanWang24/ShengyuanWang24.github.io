@@ -16,7 +16,7 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-
+# 👋 About Me
 I am a researcher in **cognitive psychology** and **computational cognitive neuroscience**. My research examines **how humans achieve efficient cognition under limited cognitive resources**, with a particular focus on how internal representations are structured, maintained, selected, and used to guide behavior. My work spans attention, memory, and learning. 
 
 I combine computational cognitive modeling with multimodal neurobehavioral methods, including fMRI, EEG, and eye-tracking, and further integrate neural networks and large language models to investigate both human cognition and its computational principles.
@@ -49,7 +49,7 @@ I combine computational cognitive modeling with multimodal neurobehavioral metho
 - *2017; 2019; 2020* Second-Class Academic Scholarship, Sun Yat-sen University. (B.S.)
 - *2018* “Academic Rising Star” (Oral Presentation Award). (B.S.) Peking University Undergraduate Academic Forum Psychology for the 21st Century.
 
-# 📖 Educations
+# 📖 Education
 - *2020.09–2026.06* Ph.D. in Psychology, Sun Yat-sen University, Guangzhou, China. Integrated M.S.–Ph.D. Program. Advisor: Prof. Xiaowei Ding.
 - *2016.09–2020.06* B.A. in Psychology, Sun Yat-sen University, Guangzhou, China.
 
