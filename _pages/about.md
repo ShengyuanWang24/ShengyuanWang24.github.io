@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a researcher in cognitive psychology and computational cognitive neuroscience. My research examines how humans achieve efficient cognition under limited cognitive resources, with a particular focus on how internal representations are structured, maintained, selected, and used to guide behavior. My work spans attention, memory, and learning. 
+I am a researcher in **cognitive psychology** and **computational cognitive neuroscience**. My research examines **how humans achieve efficient cognition under limited cognitive resources**, with a particular focus on how internal representations are structured, maintained, selected, and used to guide behavior. My work spans attention, memory, and learning. 
 
 I combine computational cognitive modeling with multimodal neurobehavioral methods, including fMRI, EEG, and eye-tracking, and further integrate neural networks and large language models to investigate both human cognition and its computational principles.
 
